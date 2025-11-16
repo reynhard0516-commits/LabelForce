@@ -1,0 +1,4 @@
+services:
+  - type: web
+    name: labelforce-backend
+    env: docker
